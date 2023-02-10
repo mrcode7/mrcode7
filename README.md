@@ -7,7 +7,7 @@ Able to work independently and as part of a team and communicate well with both 
 
 
 ## Links ⚡
-<a href="http://hasbialwi.epizy.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=000000&label=" /> </a> <a href="https://instagram.com/hasbialwikusmana"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="hasbialwikusmana" /></a> <a href="https://codepen.io/mrcode7"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=" /></a>
+<a href="https://hasbialwi.epizy.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=000000&label=" /> </a> <a href="https://instagram.com/hasbialwikusmana"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="hasbialwikusmana" /></a> <a href="https://codepen.io/mrcode7"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=" /></a>
 
 
 <details>
